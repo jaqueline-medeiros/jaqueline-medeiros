@@ -1,5 +1,5 @@
 ### Hi guys, I'm Jaqueline Medeiros 👋
 
 - 🔭 I’m currently looking for my first job like developer
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT
-- 📫 How to reach me: jaqueline.ms@outlook.com.br // (11) 95165-9169
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACTJS
+- 📫 How to reach me: jaquelinemedeirosns@gmail.com // (11) 95165-9169
