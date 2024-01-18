@@ -1,7 +1,7 @@
 ### Hi guys, I'm Jaqueline Medeiros 👋
 
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACTJS
-- 📫 How to reach me: jaquelinemedeirosns@gmail.com // (11) 95165-9169
+- 📫 How to reach me: jaquelinemedeirosns@gmail.com
 
 <div>
   <a href="https://github.com/jaqueline-medeiros">
